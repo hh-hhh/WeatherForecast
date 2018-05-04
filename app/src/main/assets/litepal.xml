@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Weather_Forecast"/>
+    <verson value="1"/>
+    <list>
+        <mapping class="com.example.yiwei.weatherforecast.db.Province"/>
+        <mapping class="com.example.yiwei.weatherforecast.db.City"/>
+        <mapping class="com.example.yiwei.weatherforecast.db.County"/>
+    </list>
+
+</litepal>
